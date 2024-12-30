@@ -1,4 +1,4 @@
-## Hi 👋, I'm [Jazeel Wayanad](jazeelwayanad.me)
+## Hi 👋, I'm [Jazeel Wayanad](https://www.jazeelwayanad.me)
 
 <!--
 **jazeelwayanad/jazeelwayanad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
